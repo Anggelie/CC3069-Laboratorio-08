@@ -28,7 +28,4 @@ Los scripts usan un presupuesto de cinco millones de operaciones estimadas. Si u
 Los archivos Markdown contienen los procedimientos. La versión descargable del laboratorio incluye también PDFs por ejercicio.
 
 ## Video de demostración
-**Pendiente:** añadir aquí el enlace a YouTube no listado (duración máxima de 10 minutos) después de grabar la ejecución real.
 
-## Colaboradores
-**Pendiente:** invitar al catedrático y auxiliares indicados en Canvas.
